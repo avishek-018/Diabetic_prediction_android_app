@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DiabetesPredictionApp</string>
+
+    <string name="diabetic_title"><u><b><i>Diabetic Prediction</i></b></u></string>
+
+    <string name="diabetic_subtitle">Please enter your medical information and get the diabetic diagnosis result instantly!</string>
+    <string name="label1">Pregnancies</string>
+    <string name="label2">Glucose</string>
+    <string name="label3">Blood Pressure</string>
+    <string name="label4">SkinThickness</string>
+    <string name="label5">BMI</string>
+    <string name="label6">Age</string>
+
+</resources>
+
+    <!--    Pregnancies	Glucose	BloodPressure	SkinThickness	BMI	Age-->
